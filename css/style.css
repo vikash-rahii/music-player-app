@@ -7,6 +7,9 @@
 html{
     font-family: 'Jost', sans-serif;
 }
+body{
+    background-color: #b28aff;
+}
 .main{
     height: 100vh;
     width: 100vw;
@@ -15,8 +18,8 @@ html{
 }
 .music-container{
     height: 31rem;
-    width: 20rem;
-    background-color:#e5ff99;
+    width: 23rem;
+    background-color:#4ba5a1;
     border-radius: 4px;
     box-shadow: 0px 0px 22px 2px #0000008f;
     text-align:center;
@@ -33,7 +36,7 @@ html{
     font-size: 20px;
     text-transform: capitalize;
     margin-top: 2%;
-    color: #52525296;
+    color: darkgreen;
 }
 .img-container{
     margin: auto;
